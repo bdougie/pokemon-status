@@ -1,0 +1,17 @@
+body {
+  background: white;
+  font: 300 normal 16px/1.5 Roboto, sans-serif;
+  padding: 180px;
+}
+
+h2 {
+  color: #00c7b7;
+  font-size: 35px; 
+}
+
+.content {
+  border-radius: 10px;
+  border: 3px solid #00c7b7;
+  background: #808080;
+  padding: 20px;
+}
